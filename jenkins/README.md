@@ -6,16 +6,13 @@ _Note: This document needs to be completed_
 ## Jenkins Server Url 
 
 
-https://jenkins.evtcorp.lab/
+https://jenkins.org.lab/
 
 
 ## Persistance Volume Claim
 
 Created a PVC form outside the chart and using that volume claim for the jenkins deployment
 
-Please find the file under the 
-
-https://bitbucket.org/evtco/evt-helm-charts/src/master/evt-jenkins/
 
 
 
