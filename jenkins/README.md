@@ -1,4 +1,4 @@
-# EVT Helm Chart for Hashicorp Consul
+#Helm Chart for Jenkins
 
 _Note: This document needs to be completed_
 
